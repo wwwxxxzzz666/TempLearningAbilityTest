@@ -164,7 +164,7 @@ inline void ready()
     clrscr();
 }
 
-inline void fanying()
+inline void fanying()  //已废弃
 {
     print("1,反应力测试\n",9);
 }
