@@ -64,7 +64,7 @@ void gotoxy(int x,int y)
 }*/
 
 double ans=0;  //最终结果
-double surv,reac,memo,calc,colo,hold;  //量表，反应，记忆，计算，色名，憋气
+double surv,reac,memo,calc,colo,hold;  //量表，反应（已弃用），记忆，计算，色名，憋气（已弃用）
 int jiyis[4];  //记忆测试三次子测试的正确数
 char t=' ';
 
